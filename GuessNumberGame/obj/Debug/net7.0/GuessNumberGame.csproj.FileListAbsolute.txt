@@ -1,0 +1,15 @@
+/Users/ricardorosa/Documents/projects_.net/GuessNumberGame/GuessNumberGame/bin/Debug/net7.0/GuessNumberGame
+/Users/ricardorosa/Documents/projects_.net/GuessNumberGame/GuessNumberGame/bin/Debug/net7.0/GuessNumberGame.deps.json
+/Users/ricardorosa/Documents/projects_.net/GuessNumberGame/GuessNumberGame/bin/Debug/net7.0/GuessNumberGame.runtimeconfig.json
+/Users/ricardorosa/Documents/projects_.net/GuessNumberGame/GuessNumberGame/bin/Debug/net7.0/GuessNumberGame.dll
+/Users/ricardorosa/Documents/projects_.net/GuessNumberGame/GuessNumberGame/bin/Debug/net7.0/GuessNumberGame.pdb
+/Users/ricardorosa/Documents/projects_.net/GuessNumberGame/GuessNumberGame/obj/Debug/net7.0/GuessNumberGame.csproj.AssemblyReference.cache
+/Users/ricardorosa/Documents/projects_.net/GuessNumberGame/GuessNumberGame/obj/Debug/net7.0/GuessNumberGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardorosa/Documents/projects_.net/GuessNumberGame/GuessNumberGame/obj/Debug/net7.0/GuessNumberGame.AssemblyInfoInputs.cache
+/Users/ricardorosa/Documents/projects_.net/GuessNumberGame/GuessNumberGame/obj/Debug/net7.0/GuessNumberGame.AssemblyInfo.cs
+/Users/ricardorosa/Documents/projects_.net/GuessNumberGame/GuessNumberGame/obj/Debug/net7.0/GuessNumberGame.csproj.CoreCompileInputs.cache
+/Users/ricardorosa/Documents/projects_.net/GuessNumberGame/GuessNumberGame/obj/Debug/net7.0/GuessNumberGame.dll
+/Users/ricardorosa/Documents/projects_.net/GuessNumberGame/GuessNumberGame/obj/Debug/net7.0/refint/GuessNumberGame.dll
+/Users/ricardorosa/Documents/projects_.net/GuessNumberGame/GuessNumberGame/obj/Debug/net7.0/GuessNumberGame.pdb
+/Users/ricardorosa/Documents/projects_.net/GuessNumberGame/GuessNumberGame/obj/Debug/net7.0/GuessNumberGame.genruntimeconfig.cache
+/Users/ricardorosa/Documents/projects_.net/GuessNumberGame/GuessNumberGame/obj/Debug/net7.0/ref/GuessNumberGame.dll
