@@ -1,34 +1,41 @@
-﻿class Program{
-
-static void Main(string[] args){
-    bool correctGuess = false;
-    Random random = new Random();
-
-    int randomNum = random.Next(1, 11);
-
-    Console.WriteLine("Welcome to the guessing game number.");
-    Console.WriteLine("A number between 1 and 10 will be generated.");
-    Console.WriteLine("You win if you can guess the correct number.");
-
-    while (!correctGuess)
+﻿class Program
+{
+    static void Main(string[] args)
     {
-        Console.WriteLine("Please enter your guess.");
-        int guess = Convert.ToInt32(Console.ReadLine());
-        if (guess > randomNum){
+        // Declare a boolean variable to track if the correct guess has been made
+        
+        
+        // Create a Random object to generate a random number
+        
+        
+        // Generate a random number between 1 and 10
+       
+        
+        // Display welcome messages and game instructions
+        
+        
+        // Loop until the correct guess is made
+        
+            // Prompt the user to enter their guess
             
-            Console.WriteLine("Your guess is too high try lower.");
-
-        }
-        else if (guess < randomNum){
-            Console.WriteLine("Your guess is too low try higher.");
-        }
-        else{
-            Console.WriteLine("Your guess is correct");
-            correctGuess = true;
-        }
+            
+            // Read and convert the user's guess from the console input
+            
+            
+            // Check if the guess is higher than the random number
+          
+                // Inform the user that their guess is too high
+                
+            // Check if the guess is lower than the random number
+            
+                // Inform the user that their guess is too low
+               
+            // The guess is correct
+           
+                // Inform the user that their guess is correct
+               
+                
+                // Set the correctGuess flag to true to exit the loop
+              
     }
-
-    Console.WriteLine("Well done you have won.");
-}
-
 }
